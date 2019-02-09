@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dart - challenge</string>
+    <string name="presentation">Seja bem vindo à Dart</string>
+    <string name="info">Por favor entre com a senha e e-mail válidos</string>
+    <string name="wrongPassword">Senha ou e-mail incorretos!</string>
+    <string name="login">Entrar</string>
+    <string name="warning">Nenhum item encontrado</string>
+    <string name="wrong_password">Senha ou e-mail incorretos, por favor tente novamente</string>
+
+</resources>
